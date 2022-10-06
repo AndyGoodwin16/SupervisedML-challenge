@@ -1,3 +1,4 @@
+NOTE: Answers to questions below were included within the jupyter lab notebook as comments in their own cells.
 # Supervised Machine Learning Homework - Predicting Credit Risk
 
 In this assignment, you will be building a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not. 
